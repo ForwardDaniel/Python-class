@@ -1,0 +1,5 @@
+Applying concepts learned, design a virtual login system with input from the user considering the following rules
+1. Password must be 8 or more characters
+2. On successful login, allow the user to implement calculator opertion by inputing two values
+and specify the operation to be performed
+3. Print the answer.

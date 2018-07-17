@@ -1,0 +1,16 @@
+1. write a python program to calculate the average scores of 5 classes with 10 students each and display
+the output as a
+i. tuple
+ii. list
+iii. dictionary
+
+2. In question 1 above write a python program to grade the students
+3. in a certain shop taxes are impose basin on the amount of cash spent using the table below
+print out the total cash spent for customers who bought goods worth the following amounts.
+i. 2500
+ii. 10000
+iii. 25000
+iv. 70000
+4. Write a python program to implement a login system and hence implement a python calculator
+define the login system on an external module on a function
+NB all inputs from the user
